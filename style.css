@@ -312,7 +312,7 @@ a{
 }
 .one{
     z-index: 1000;
-    animation: slider 25s ease-in-out;
+    animation: slider 20s ease-in-out;
     transform: translateY(-1000px);
 }
 .three{
@@ -329,6 +329,6 @@ a{
 }
 @media screen and (min-width: 968px) {
 	.one{
-	    animation: slider 35s ease-in-out;
+	    animation: slider 25s ease-in-out;
 	}
 }
